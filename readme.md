@@ -1,60 +1,44 @@
 # 👋 Hi, I'm RadhaRaman
 
-🚀 Passionate Developer | AI/ML Enthusiast | DevOps Learner
+💻 Artificial Intelligence | Data Science | Web Developer
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🎓 Student with strong interest in **AI/ML and Web Development**
-* 💻 Skilled in building **full-stack applications (MERN)**
-* ⚡ Exploring **FastAPI & Streamlit for AI-powered apps**
-* ☁️ Currently learning **DevOps & AWS**
-* 📊 Love working on **data analysis and real-world problem solving**
+* 🎓 Passionate about **Computer Science and its real-world applications**
+* 📊 Interested in **Artificial Intelligence and data-driven decision making**
+* 🌐 Learning and building in **Web Development (MERN)**
+* 🔐 Exploring **Cybersecurity & Ethical Hacking fundamentals**
+* 🚀 Always learning by building projects
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-### 💻 Programming Languages
+### 🤖 Artificial Intelligence
 
-* Java
-* JavaScript
-* Python
+* Machine Learning (ML)
+* Deep Learning
+* Computer Vision
+* Natural Language Processing (NLP)
+
+### 📊 Data Science
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Visualization
+* Power BI
 
 ### 🌐 Web Development
 
-* MongoDB, Express.js, React.js, Node.js
-* HTML, CSS
+* MERN Stack
+* HTML, CSS, JavaScript (Basics)
 
-### ⚙️ Frameworks & Tools
+### 🔐 Cybersecurity
 
-* FastAPI
-* Streamlit
-* Git & GitHub
-
-### 🤖 AI / ML
-
-* Machine Learning
-* Natural Language Processing (NLP)
-
----
-
-## 📌 Projects
-
-### 🔹 Resume Screener
-
-* AI-based resume filtering system
-* Built using **Python, OpenCV**
-
-### 🔹 Agriculture Data Analysis
-
-* Performed EDA on crop datasets
-* Extracted insights for yield improvement
-
-### 🔹 Event Management Platform (MERN)
-
-* Full-stack event handling system
+* Ethical Hacking
+* Networking Fundamentals
 
 ---
 
@@ -66,20 +50,18 @@
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Working On
 
-* DevOps
-* AWS
-* System Design Basics
+* Building projects in **Artificial Intelligence, Data Science, and Web Development**
+* Exploring **Cloud Computing (AWS)**
+* Applying concepts through hands-on development
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: (Add your link)
-* Email: (Add your email)
-
+* LinkedIn: [(Add your link)](https://www.linkedin.com/in/radha-raman12/)
+* Email: radharaman120506@gmail.com
 ---
 
-⭐ *“Always learning, always building.”*
-
+⭐ *“Learning by building and improving every day.”*
