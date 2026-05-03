@@ -52,7 +52,7 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: [(LinkedIn)](https://www.linkedin.com/in/radha-raman12/)
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/radha-raman12/)
 * Email: radharaman120506@gmail.com
 ---
 
